@@ -1,6 +1,6 @@
 # Risa Martignon — Portfolio
 
-Built with React + Vite + React Router. Deployed on Vercel.
+Built with React + Vite + React Router.
 
 
 ## File structure
@@ -8,7 +8,7 @@ Built with React + Vite + React Router. Deployed on Vercel.
 ```
 src/
   assets/
-    images/          ← drop all your photos here
+    images/        
   components/
     Nav.jsx          ← sticky navigation
     Footer.jsx       ← footer with legal name
