@@ -16,7 +16,7 @@ export default function Home() {
           </p>
           <div className="hero-buttons">
             <Link to="/projects" className="btn-primary">View my work</Link>
-            <a href="https://docs.google.com/document/d/1PcuREzphYssTX_N1P0XpL6SIHEKvJPupywgLaC1takQ/edit?usp=sharing" className="btn-ghost" target="_blank" rel="noreferrer">Download CV</a>
+            <a href="https://flowcv.com/resume/sv914plhvs4t" className="btn-ghost" target="_blank" rel="noreferrer">Download CV</a>
           </div>
           <div className="hero-socials">
             <a href="https://github.com/risa-marti"      className="social-link" aria-label="GitHub"    target="_blank" rel="noreferrer">GH</a>
