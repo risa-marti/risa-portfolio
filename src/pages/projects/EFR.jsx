@@ -5,8 +5,6 @@ import efrBuild1    from '../../assets/images/efr-build-1.jpg'
 import efrBuild2    from '../../assets/images/efr-build-2.png'
 import efrBuild3    from '../../assets/images/efr-build-3.png'
 import efrYolo      from '../../assets/images/efr-yolo-screenshot.png'
-import efrVideo1    from '../../assets/images/efr-driving-1.mp4'
-import efrVideo2    from '../../assets/images/efr-driving-2.mov'
 
 
 import ProjectPage, {
