@@ -44,7 +44,7 @@ export default function Hobbies() {
           <h2 className="hob-title-sm">Words I've <em>published</em></h2>
           <p className="hob-body">Writing has always been part of how I process things. These two pieces — a poem and an opinion article — are the ones I'm most proud of putting out into the world.</p>
           <div className="writing-grid">
-            <a href="https://jgirlsmag.movingtraditions.org/2025/12/connection/#conversation" target="_blank" rel="noreferrer" className="writing-card">
+            <a href="https://jgirlsmag.movingtraditions.org/2025/12/connection" target="_blank" rel="noreferrer" className="writing-card">
               <span className="writing-source">jGirls+ Magazine</span>
               <span className="writing-type">Published poem · 2025</span>
               <h3 className="writing-title">Connection</h3>
